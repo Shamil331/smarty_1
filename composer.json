@@ -1,0 +1,6 @@
+{
+    "name": "root/app",
+    "require": {
+        "smarty/smarty": "^5.8"
+    }
+}
